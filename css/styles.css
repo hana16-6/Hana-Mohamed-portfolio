@@ -845,7 +845,9 @@ margin-top: var(--mb-3);
   }
   .work_filters {
   column-gap: 0;
-
+  }
+  .work_item{
+    font-size: 10px;
   }
   .skills_title{
     font-size: var(--normal-font-size);
@@ -870,6 +872,9 @@ margin-top: var(--mb-3);
   }
   .project_img{
     width: 200px;
+  }
+  .scrollup {
+   right: 1.5rem;
   }
 }
 
