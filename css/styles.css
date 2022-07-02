@@ -874,8 +874,14 @@ margin-top: var(--mb-3);
   .project_img{
     width: 200px;
   }
+  .contact_subtitle{
+    font-size: 0.625rem;
+  }
+  .contact_title{
+    font-size: 1.063rem;
+  }
   .scrollup {
-   right: 1.5rem;
+  right: 1.5rem;
   }
 }
 
