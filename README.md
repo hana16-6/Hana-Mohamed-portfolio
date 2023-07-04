@@ -1,7 +1,8 @@
 # My Portfolio
 
 My Portfolio to show who I am , my work , skills and more
-[`Github Repository`](https://my-portfolio-hana.vercel.app/)
+
+[`live demo`](https://my-portfolio-hana.vercel.app/)
 
 ## Features
 
